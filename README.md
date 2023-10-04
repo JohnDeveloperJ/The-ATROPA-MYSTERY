@@ -41,7 +41,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```shell
-   git clone <repository-url>
+   gh repo clone JohnDeveloperJ/The-ATROPA-MYSTERY
    ```
 
 2. Navigate to the project directory:
@@ -89,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 **Disclaimer**: This project is for educational and demonstration purposes only. Use it responsibly and at your own risk.
 ```
 
-Please replace `<repository-url>` with the actual URL of your GitHub repository, and `<project-directory>` with the name of your project directory. Customize the content as needed to provide a clear and comprehensive overview of your project.
+
