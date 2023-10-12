@@ -1,6 +1,5 @@
 # The-ATROPA-MYSTERY
 
-
 # Automatic Token Peg (ATP) Project
 
 ## Overview
@@ -40,26 +39,31 @@ The ATP Token maintains its peg through the following process:
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
+
    ```shell
    gh repo clone JohnDeveloperJ/The-ATROPA-MYSTERY
    ```
 
 2. Navigate to the project directory:
+
    ```shell
    cd <project-directory>
    ```
 
 3. Initialize Hardhat and install dependencies:
-   ```shell
+   ````shell
    npx hardhat
    yarn install
    ```npm i @openzeppelin/contracts
-npm i @chainlink/contracts
+   npm i @chainlink/contracts
+   ````
+
 ## Usage
 
 - **Developing Smart Contracts**: Write your Solidity smart contracts in the `contracts/` directory. You can use any code editor or IDE.
 
 - **Compiling Smart Contracts**: Compile your smart contracts using Hardhat:
+
   ```shell
   npx hardhat compile
   ```
@@ -87,6 +91,8 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Disclaimer**: This project is for educational and demonstration purposes only. Use it responsibly and at your own risk.
+
 ```
 
 
+```
