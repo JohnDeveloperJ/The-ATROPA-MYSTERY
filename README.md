@@ -53,8 +53,8 @@ Follow these steps to set up the project locally:
    ```shell
    npx hardhat
    yarn install
-   ```
-
+   ```npm i @openzeppelin/contracts
+npm i @chainlink/contracts
 ## Usage
 
 - **Developing Smart Contracts**: Write your Solidity smart contracts in the `contracts/` directory. You can use any code editor or IDE.
